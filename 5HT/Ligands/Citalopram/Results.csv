@@ -1,0 +1,10 @@
+Ligand,Binding Affinity,rmsd/ub, rmsd/lb
+ChainA_citalopram,-9.0,0.0,0.0
+ChainA_citalopram,-8.5,5.597,2.42
+ChainA_citalopram,-8.5,5.318,2.748
+ChainA_citalopram,-8.3,3.302,2.885
+ChainA_citalopram,-8.2,5.483,3.451
+ChainA_citalopram,-8.1,5.233,3.554
+ChainA_citalopram,-7.9,6.872,4.652
+ChainA_citalopram,-7.8,6.631,4.063
+ChainA_citalopram,-7.7,7.517,5.142
