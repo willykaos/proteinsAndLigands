@@ -1,0 +1,10 @@
+Ligand,Binding Affinity,rmsd/ub, rmsd/lb
+ChainA_paroxetine,-10.1,0.0,0.0
+ChainA_paroxetine,-9.4,6.026,3.38
+ChainA_paroxetine,-9.3,6.41,3.456
+ChainA_paroxetine,-9.0,6.126,3.523
+ChainA_paroxetine,-8.8,6.9,3.623
+ChainA_paroxetine,-8.6,7.468,4.576
+ChainA_paroxetine,-8.3,7.908,5.353
+ChainA_paroxetine,-7.8,9.486,7.225
+ChainA_paroxetine,-7.7,15.615,12.338

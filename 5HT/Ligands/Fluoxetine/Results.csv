@@ -1,0 +1,10 @@
+Ligand,Binding Affinity,rmsd/ub, rmsd/lb
+ChainA_Fluoxetine,-8.9,0.0,0.0
+ChainA_Fluoxetine,-8.5,2.167,1.471
+ChainA_Fluoxetine,-7.8,7.378,4.977
+ChainA_Fluoxetine,-7.8,8.639,7.528
+ChainA_Fluoxetine,-7.5,5.605,4.293
+ChainA_Fluoxetine,-7.5,6.776,4.677
+ChainA_Fluoxetine,-7.3,15.88,13.207
+ChainA_Fluoxetine,-7.2,5.745,4.461
+ChainA_Fluoxetine,-7.0,15.403,12.155
